@@ -10,3 +10,4 @@ The neural network (we'll call it the 'brain') was initially trained to 100% acc
 Once training was complete, the brain tried guessing the color on 470 images that it's never seen before. On this test set, the brain achieved an accuracy of 97.6%. Not bad!
 
 The app uses node.js, mongodb, and twitter bootstrap.
+Join the chat at https://gitter.im/v32itas/colorbot
